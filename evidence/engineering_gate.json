@@ -1,0 +1,15 @@
+{
+  "schema": "kwt-release-gate-v1",
+  "candidate": "FINALS30248_O12_RANGE107",
+  "stage": "engineering",
+  "context": {
+    "group": "undergraduate",
+    "phase": "final"
+  },
+  "active_requirements": 62,
+  "ready_for_stage": true,
+  "official_submission_ready": false,
+  "issues": [],
+  "limitation": "检查条款、证据存在和版本一致性；不自动判断拓扑等价、官方许可真伪或科学结论。",
+  "checked_utc": "2026-11-18T13:06:19.128288+00:00"
+}

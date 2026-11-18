@@ -1,0 +1,15 @@
+{
+  "ITCM64_words": 33,
+  "cpu_code_bytes": 264,
+  "expected_result_words": 9504,
+  "files_sha256": {
+    "cpu_copy_driver.bin": "8352c1c8df8f23f7a87614f99823e29d5c7e5b2f3145bbcd6c90d7cae69ed06c",
+    "cpu_copy_driver.elf": "6a89c721444462fe8c44e28e66a3f1279eed982ad3c7fef818626f15132b6300",
+    "cpu_copy_driver.o": "04506cccf4eb3de48c557569406a4ee610916df52a8bfe814561cd065257243f",
+    "cpu_copy_driver.s": "4205863b82f2c8e2d5bee46a178b659f110d9c6f4b5ae7f8e870d0d1471e734d",
+    "cpu_copy_driver64.hex": "43ac9fc543b378272c9725ed43a5fd2979aedd444d0a03c28b2652f642d1e7da",
+    "cpu_params.vh": "47e2db238a4c1489f791850ca52e2e0c728df894f7ba8bdd8db4c295f8466c7f"
+  },
+  "format_magic": "0x0b0b0c0c",
+  "scope": "V14 MODE0 scheduler with O12 CSR magic and final result count"
+}

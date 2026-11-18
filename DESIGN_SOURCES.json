@@ -1,0 +1,96 @@
+{
+  "scope": "30248 本科决赛必做 1–3，X11/W11/O12，训练标定输出范围 1.07，MODE0",
+  "frozen_hashes": {
+    "source": "a9b7b07dcdb6bfd9cfdb305f68f5b8327bc7879fc90ca1899b5c27415b7aa049",
+    "numeric": "79d3238de73ac3849ea1bdd91e7725ad9d15461164843c5d8b9560c0e41785cd",
+    "firmware": "43ac9fc543b378272c9725ed43a5fd2979aedd444d0a03c28b2652f642d1e7da",
+    "mapped": "33ec776dca68e9ce78fa6671fc5b3abf57f98eae7977b658746aa9081129ff87"
+  },
+  "own": [
+    {
+      "scope": "加速器 RTL、DMA 缓冲、顺序仲裁和总线接入",
+      "files": [
+        "project04/hardware/rtl",
+        "project04/hardware/integration/prepare_native_overlay.py"
+      ]
+    },
+    {
+      "scope": "共享 SRAM 的 32 位总线控制器、CSR、多路复用以及原 E203 存储接口接入。控制器逻辑计入新增面积，作为固定共享存储使用的宏面积单列。",
+      "files": [
+        "project04/hardware/rtl/shared_sram512.sv",
+        "project04/hardware/rtl/sysmem_csr.sv"
+      ]
+    },
+    {
+      "scope": "数值格式转换、训练集范围标定、输入及参数打包、硬件原生 12 位定长写回。完整 99×256 矩阵占用 9,504 个 32 位字。",
+      "files": [
+        "project04/calibration",
+        "project04/FIXED12_FORMAT.json",
+        "project04/hardware/rtl/fixed_matrix_writer.sv",
+        "project04/experiments/shared_bus_write_allocate_20261111"
+      ]
+    },
+    {
+      "scope": "264 字节 E203 调度固件，负责配置、等待、中断唤醒、启动与状态轮询。",
+      "files": [
+        "project04/firmware/manifest.json",
+        "project04/firmware/cpu_copy_driver.s"
+      ]
+    },
+    {
+      "scope": "验证工程、WAV 输入转换及可重复运行入口。硬件执行必做整数点积、偏置、范围量化和写回，软件整数预期矩阵用于校验。",
+      "files": [
+        "project04/verification",
+        "raw_audio",
+        "scripts/reference_pipeline.py"
+      ]
+    }
+  ],
+  "third_party": [
+    {
+      "name": "Provided2025 E203/hbirdv2 SoC package",
+      "role": "Original CPU/bus/TCM/peripherals/AON and custom macro wrappers",
+      "platform_package": "SOC_RTL_2025/e203_hbirdv2-master_1013_update_sim.zip",
+      "profile_sha256": "2bf19e69bf00be9838ddb77fd977bdc93d3b91240f545b7879d6d68d80dd7dd7",
+      "public_reference_url": "https://github.com/riscv-mcu/e203_hbirdv2",
+      "public_reference_commit": "9f3e34f337f5d0a1236a285871ffa2032491617a",
+      "note": "Provided custom SMIC wrappers/config are authoritative; not replaced by public upstream; exact source hashes in resource profile."
+    },
+    {
+      "name": "ARM-software keyword-transformer KWT1",
+      "url": "https://github.com/ARM-software/keyword-transformer/tree/237e4097afd4f6851e0b82f0a8d65c2dfe8eae30",
+      "role": "Specified unmodified inference model/checkpoint, preprocessing, train/validation partition and12-layer FFN inputs",
+      "license": "Apache 2.0，原始许可证随参考模型附带。"
+    },
+    {
+      "name": "Speech Commands v0.02",
+      "url": "https://storage.googleapis.com/download.tensorflow.org/data/speech_commands_v0.02.tar.gz",
+      "archive_sha256": "af14739ee7dc311471de98f5f9d2c9191b18aedfe957f4a6ff791c709868ff58",
+      "role": "Specified dataset; training only for numeric config, validation for frozen checks, testing not used for tuning."
+    },
+    {
+      "name": "Provided SMIC SRAM/ROM and standard cell libraries",
+      "role": "Actual simulation models, mapping and STA/power/area library assets, not autonomous RTL",
+      "macro_types": [
+        "RAMSP8KX32",
+        "RAMSP4KX64",
+        "RAMSP1024X16",
+        "RAMSP128X16",
+        "ROM1KX32"
+      ],
+      "location": "Original files retained server-only; exact final DB/model hashes in server result records; no redistributed private assets."
+    }
+  ],
+  "algebraic_method": "Pairwise inner-product identity implemented in own RTL; hardware computes Alpha terms; no third-party Winograd RTL copied. Integer-rounding error compensation is original project Python implementation; original floating checkpoint is not modified. This is not an organizer-specific approval of a named quantization algorithm.",
+  "loading_adapter": "仿真 testbench 在 CPU 空闲时驱动既有 MEM 主端点。装载的 8,168 个源字经过原 32 位 System Bus 和共享 SRAM 命令及响应握手，读取和写回使用同一规定通路。",
+  "legacy_annotations": {
+    "project04/DESIGN_SOURCES.json": {
+      "sha256": "d366b5c027263f304d827b87a2daee5e5a693226a98f8f617f38aecf7e4f64e8",
+      "note": "该冻结文件中的 O13、fixed16 和 248 字节属于上游旧版说明，当前版本以本清单、FIXED12_FORMAT.json 和 firmware/manifest.json 为准。"
+    },
+    "project04/hardware/integration/prepare_native_overlay.py": {
+      "sha256": "e9811f2ad23212a3a92dee62cd7e23400cdb5e83baf9cb2089ddb9d4a40a8ea0",
+      "note": "该脚本生成的 overlay_manifest.json 有沿用上游的 O13 描述字段。该字段为说明文字，未驱动接口或算术。当前硬件和数值格式以 FIXED12_FORMAT.json、冻结编译输入和原平台映射记录为准。"
+    }
+  }
+}

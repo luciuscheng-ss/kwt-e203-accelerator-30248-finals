@@ -1,0 +1,13 @@
+{
+  "archive": "~/Desktop/KWT_30248_Finals_O12_range107_R1/KWT_30248_FINALS_O12_RANGE107_TECHNICAL_R1.tar.gz",
+  "sha256": "3c34b02c81e58325beb306558b82bc3f2113d5addd30e7678a865c47635d4626",
+  "members": 546,
+  "original_vcds": 12,
+  "runtime_sha256": "e7285a9310275f4b9adee1c161ee17d84b6e041b2545f1787d440da0c9e36d8f",
+  "archive_index_sha256": "98bab458b7f0ba1259c7a9448a899e66ac6a50ca371b70cc7666e00ba8e2bd00",
+  "receipt_source_sha256": "0aba0bdc7a80c108564da0887f9659e5b770038c8901bc12f40a3f100380f11a",
+  "original_platform": true,
+  "previous_archive_sha256": "5c134ed6ceea65d4bdde6a8fc2677de12dd8a0734510461b404cb34aa9f84a4b",
+  "provenance_sha256": "f481c8190e2330ca3a12a7aecaa1cf7a52fe3d25cedf5a026bd757c2752994a3",
+  "scope": "Design-source documentation correction"
+}

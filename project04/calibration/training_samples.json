@@ -1,0 +1,3002 @@
+[
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "six/cce7416f_nohash_5.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/8931f494_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/43691f67_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/f9bdf10e_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/eb76bc68_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/18c54a68_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/80768fa5_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/d2f4f431_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/3d9bbe2d_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/3108acca_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/db7c95b0_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "happy/b6026214_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/fb727898_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/30f31e42_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/708b8d51_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/6cf5459b_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/31db232b_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/3bb68054_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/9886d8bf_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/8bf6acb9_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/54aecbd5_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/07c5129e_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "bed/10c6d873_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/6bf5baf3_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/f2e9b610_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/0b40aa8e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/779de043_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/bbd0bbd0_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/f5341341_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/229978fd_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/7de97453_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/1b627376_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/74b73f88_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "six/ff4ed4f3_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/0bd689d7_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/5f9cd2eb_nohash_7.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/53578f4e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/c120e80e_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/03c96658_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/472b8045_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/625fd898_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/29229c21_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/ed032775_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/09a7aa2a_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "cat/d4d898d7_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/0b7ee1a0_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/765ffccb_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/c2dccf38_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/365908bd_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/b2ae3928_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/fa44fcf5_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/f01a0d63_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/833d9f56_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/0d2bcf9d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/9448c397_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "six/1589451d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/0b7ee1a0_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/5a5721f8_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/19a1e5c7_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/ddedba85_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/51055bda_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/de3fe344_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/5a5721f8_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/df280250_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/e7bcee8a_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/28ed6bc9_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "zero/d4d898d7_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/51c5601d_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/32561e9e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/0585b66d_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/7211390b_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/3e3fa7fd_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/2b5e346d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/6c968bd9_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/d1dd03ed_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/435695e3_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/7f74626f_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "seven/c948d727_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/d394ef8e_nohash_5.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/81a345a3_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/325a0c39_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/80b8eab4_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/e3e0f145_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/3b3d2f59_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/b5935410_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/c39703ec_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/9aa21fa9_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/92b2bf59_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "five/e7ea8b76_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/96d8bb6f_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/e0322f2c_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/c98bbbd3_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/ab3f0c1b_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/4b39347d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/b69002d4_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/413bcfe1_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/9b8a7439_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/1dc86f91_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/fb24c826_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "one/0ba018fc_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/a1cff772_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/f5626af6_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/0f7266cf_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/c1e0e8e3_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/d8ee4734_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/9a8d8d34_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/f568162b_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/a13e0a74_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/611d2b50_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/0c2ca723_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "one/ca58a8c6_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/80c17118_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/3a3ee7ed_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/7846fd85_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/db9cd41d_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/b0f5b16d_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/fb727898_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/25e95412_nohash_5.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/f2f0d244_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/a55105d0_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/e32ff49d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "five/3a3ee7ed_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/b29f8b23_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/2f0ce4d9_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/ddedba85_nohash_6.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/2510c044_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/91bed2e0_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/afd53389_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/adc216c5_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/789e4ee7_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/bd11c654_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/7846fd85_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "learn/f798ac78_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/fb7cfe0e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/e882abb2_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/cce7416f_nohash_5.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/3102f006_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/f035e2ea_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/462dca36_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/ee1d8d49_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/590750e8_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/26e573a9_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/1c76f5f3_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "zero/de3fe344_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/eeaf97c3_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/3c8dc702_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/5ebc1cda_nohash_5.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/d2f4f431_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/25132942_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/651d108f_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/61a9f72a_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/4422e51d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/e9323bd9_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/b29f8b23_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "house/7ff085e1_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/a879a2c3_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/4e99c1b7_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/2b715941_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/9e92ef0c_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/c1eebc0b_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/fc3ba625_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/67bdbf56_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/94d370bf_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/7d6b4b10_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/27c24504_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "sheila/c37a72d3_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/6982fc2a_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/ef3367d9_nohash_7.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/b76f6088_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/c22ebf46_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/4fce7686_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/773e26f7_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/6727b579_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/d7559b2d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/c33682f0_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/65040d9b_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "six/ff4ed4f3_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/59c3a7f2_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/e9bc5cc2_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/779de043_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/3209ec42_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/21832144_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/b9cccd01_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/14c7b073_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/7081436f_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/88a487ce_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/12c206ea_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "bed/f104f742_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/b8874962_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/55d3725a_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/06076b6b_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/94d370bf_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/c634a189_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/46a153d8_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/321aba74_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/3250c035_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/d394ef8e_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/cc554de3_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "two/c1d39ce8_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/c50f55b8_nohash_12.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/ba59cab3_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/256c0a05_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/ca5d184c_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/f2b8fc18_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/9151f184_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/9448c397_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/a759efbc_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/e7bcee8a_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/f5341341_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "bed/4b3a7ad5_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/833d9f56_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/01bcfc0c_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/2b5e346d_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/caf1803e_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/1a892463_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/b66f4f93_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/f632210f_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/9712cce0_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/15c563d7_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/cc3b5b62_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "two/bde0f20a_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/bf5d409d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/c120e80e_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/f5733968_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/20fd451f_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/76e53db9_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/f5341341_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/ec201020_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/c6ca5d01_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/b76f6088_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/bd2db1a5_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "four/f68160c0_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/b69002d4_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/76e53db9_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/037c445a_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/5ebc1cda_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/617aeb6c_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/b5cf6ea8_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/a045368c_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/6f9088d7_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/cc6ee39b_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/0f46028a_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "nine/c0445658_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/a3fc7884_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/91ffb786_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/2fcb6397_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/61abbf52_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/9b02d503_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/4d4e17f5_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/ceef6d96_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/2f0ce4d9_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/151bfb79_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/d98dd124_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "nine/1daa5ada_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/15c563d7_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/4a1e736b_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/01b4757a_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/e882abb2_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/11a022ba_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/ef3367d9_nohash_5.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/6846af18_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/9a4d12fd_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/4c77947d_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/890cc926_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "bird/2b42e7a2_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/879a2b38_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/51c5601d_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/a16013b7_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/5a3fc246_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/742d6431_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/61e50f62_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/8d9cc260_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/fb727898_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/676f8138_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/ffd2ba2f_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "six/e4200516_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/559bc36a_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/542f38a2_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/152491bc_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/b19f7f5f_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/ab71c9a7_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/74241b28_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/72242187_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/e82914c0_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/cc6ee39b_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/bbd0bbd0_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "seven/b7a0754f_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/712e4d58_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/65d81c54_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/d1dd03ed_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/977a3be4_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/cb2929ce_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/61abbf52_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/0a196374_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/845f8553_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/30a09789_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/6bf5baf3_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "zero/1473be6a_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/a045368c_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/3ec05c3d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/ad89eb1e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/de3fe344_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/cdee383b_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/0137b3f4_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/2c7c33e8_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/f7b43563_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/b5cf6ea8_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/a24cf51c_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "zero/0ff728b5_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/069ab0d5_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/e39a8ddc_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/cc554de3_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/c948d727_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/15dd287d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/3b7f817e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/2fee065a_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/f0659908_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/e3e0f145_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/e7bcee8a_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "learn/a1e71565_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/6ef407da_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/69f609ec_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/00b01445_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/d1dd03ed_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/a3255f5c_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/c4a7a867_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/13199b79_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/4634529e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/ff4ed4f3_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/1bb6ed89_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "tree/1e412fac_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/712e4d58_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/9dcfba4b_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/e882abb2_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/a293e285_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/8012c69d_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/857366dd_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/4cee0c60_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/bd11a2e7_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/d3d8fcd0_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/144d27ff_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "follow/0f7266cf_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/2da58b32_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/4e02d62d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/f8ba7c0e_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/25132942_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/bab36420_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/77655bdf_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/d0858dce_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/2e75d37a_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/5e1b34a6_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/6fb3d5a7_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "eight/8e05039f_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/7910d292_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/1e4064b8_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/ffd2ba2f_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/b12bef84_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/890cc926_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/f575faf3_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/c18d8d00_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/9fac5701_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/ef3367d9_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/3bb68054_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "six/d8c314c0_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/11379f4d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/85851131_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/acfd5b5e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/333d7ddb_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/89947bd7_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/042186b8_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/bcf614a2_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/a527cb3c_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/3ffa3457_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/6347b393_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "wow/c0e8f5a1_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/01bb6a2a_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/7ea032f3_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/2b42e7a2_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/e9b61425_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/adec6a94_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/4a4e28f1_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/61d3e51e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/3209ec42_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/821b64cc_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/9637f43f_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "two/c79159aa_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/f6617a86_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/0362539c_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/f7b43563_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/0ff728b5_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/d53e25ba_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/b5935410_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/0d393936_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/65846c5f_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/f00180d0_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/bf8d5617_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "nine/ffbb695d_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/483e2a6f_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/190821dc_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/e0ff1e9c_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/d94eb94f_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/9886d8bf_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/cce7416f_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/dd6c6806_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/f736ab63_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/954f190f_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/6aa8def4_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "visual/b308773d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/6c968bd9_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/b87bdb22_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/cce7416f_nohash_10.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/c7e02d9c_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/b69fe0e2_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/dff327c5_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/f9bdf10e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/acfd5b5e_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/fc3ba625_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/686d030b_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "three/50928b05_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/050170cb_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/90e72357_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/48463cbc_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/d278d8ef_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/5b09db89_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/13d7b8c9_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/7e783e3f_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/18ffa72d_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/6c968bd9_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/b69002d4_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "two/2dc4f05d_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/645ed69d_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/8281a2a8_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/b0f5b16d_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/e0611c84_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/a7545b9f_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/66276b0e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/45864319_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/6f7724f5_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/01d22d03_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/d5c41d6a_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "eight/324210dd_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/91ffb786_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/772db621_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/4954abe8_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/a97017df_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/d3f22f0e_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/b6e6aa2e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/645ed69d_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/dea820ce_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/b9515bf3_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/96a48d28_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "nine/126a31d2_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/62581901_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/cce7416f_nohash_7.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/0a2b400e_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/833d9f56_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/6c429c7b_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/d264f7b6_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/229978fd_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/ed032775_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/1afd49bf_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/679463fc_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "two/1496195a_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/07089da9_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/122c5aa7_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/1678e6f1_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/676f8138_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/d7a58714_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/3bc21161_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/12c206ea_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/3bb68054_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/e7ea8b76_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/f839238a_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "zero/98447c43_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/db9cd41d_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/d1dd03ed_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/f8ba7c0e_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/dae01802_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/6823565f_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/aa62fdad_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/652b3da7_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/eaa83485_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/1970b130_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/256c0a05_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "zero/b087aa0e_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/f035e2ea_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/c7aaad67_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/e4be0cf6_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/24befdb3_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/cc3b5b62_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/234d6a48_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/070b49af_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/cd671b5f_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/765ffccb_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/b5552931_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "three/3a33d3a4_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/977a3be4_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/627c0bec_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/b46e8153_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/0f7266cf_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/2fcb6397_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/72320401_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/de41f895_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/f798ac78_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/305776dd_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/f8f60f59_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "five/1a892463_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/f4386675_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/50d1c8e3_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/2927c601_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/1ecfb537_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/7c83c5f6_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/30060aba_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/3ee0fc39_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/16fce7de_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/f798ac78_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/de89e2ca_nohash_5.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "forward/234d6a48_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/7cb5c0b7_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/cd671b5f_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/0ff728b5_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/24b82192_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/c98bbbd3_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/b10b0654_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/333d7ddb_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/f4f59743_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/0a2b400e_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/b5cf6ea8_nohash_5.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "follow/4c3cddb8_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/ad89eb1e_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/51055bda_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/850e2222_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/b44007bc_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/195c120a_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/324210dd_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/616420be_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/e7bcee8a_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/f5d09ebd_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/ae04cdbe_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 0,
+    "file": "go/b12bef84_nohash_1.wav",
+    "silence": true
+  },
+  {
+    "label": 1,
+    "file": "wow/afb9e62e_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 2,
+    "file": "yes/0d90d8e1_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 3,
+    "file": "no/6ef407da_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 4,
+    "file": "up/9f4098cb_nohash_1.wav",
+    "silence": false
+  },
+  {
+    "label": 5,
+    "file": "down/f736ab63_nohash_4.wav",
+    "silence": false
+  },
+  {
+    "label": 6,
+    "file": "left/d070ea86_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 7,
+    "file": "right/c120e80e_nohash_3.wav",
+    "silence": false
+  },
+  {
+    "label": 8,
+    "file": "on/80be36a2_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 9,
+    "file": "off/513aeddf_nohash_0.wav",
+    "silence": false
+  },
+  {
+    "label": 10,
+    "file": "stop/195c120a_nohash_2.wav",
+    "silence": false
+  },
+  {
+    "label": 11,
+    "file": "go/977a3be4_nohash_0.wav",
+    "silence": false
+  }
+]

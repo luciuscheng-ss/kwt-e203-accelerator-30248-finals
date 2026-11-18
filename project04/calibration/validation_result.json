@@ -1,0 +1,97 @@
+{
+  "training_freeze_sha256": "dec5141943bdf6043ff4ba84d702ea0acffebb3ac72fc613af61d5e7074174a6",
+  "selected_factor": 1.07,
+  "samples_per_layer": 4445,
+  "worst_layer_nrmse": 0.0011517172220213787,
+  "local_precision_score": 9.616094259326207,
+  "worst_sample_nrmse": 0.023968444389268654,
+  "samples_over_3pct": 0,
+  "cases": [
+    {
+      "layer": 0,
+      "nrmse": 0.0008657592604497698,
+      "worst_sample_nrmse": 0.014035428995960018,
+      "saturations": 818,
+      "samples_over_3pct": 0
+    },
+    {
+      "layer": 1,
+      "nrmse": 0.0009415774798574335,
+      "worst_sample_nrmse": 0.011223964959911032,
+      "saturations": 1383,
+      "samples_over_3pct": 0
+    },
+    {
+      "layer": 2,
+      "nrmse": 0.000935085561609295,
+      "worst_sample_nrmse": 0.007301912713626878,
+      "saturations": 1222,
+      "samples_over_3pct": 0
+    },
+    {
+      "layer": 3,
+      "nrmse": 0.0010278899617948288,
+      "worst_sample_nrmse": 0.01708583046813613,
+      "saturations": 1497,
+      "samples_over_3pct": 0
+    },
+    {
+      "layer": 4,
+      "nrmse": 0.0011517172220213787,
+      "worst_sample_nrmse": 0.023968444389268654,
+      "saturations": 1461,
+      "samples_over_3pct": 0
+    },
+    {
+      "layer": 5,
+      "nrmse": 0.0009098797566274218,
+      "worst_sample_nrmse": 0.006890465137570777,
+      "saturations": 978,
+      "samples_over_3pct": 0
+    },
+    {
+      "layer": 6,
+      "nrmse": 0.0008663602187371471,
+      "worst_sample_nrmse": 0.008071944791427994,
+      "saturations": 1252,
+      "samples_over_3pct": 0
+    },
+    {
+      "layer": 7,
+      "nrmse": 0.0009305921512149513,
+      "worst_sample_nrmse": 0.009833952034236149,
+      "saturations": 658,
+      "samples_over_3pct": 0
+    },
+    {
+      "layer": 8,
+      "nrmse": 0.0009490201812651651,
+      "worst_sample_nrmse": 0.00758857028062011,
+      "saturations": 992,
+      "samples_over_3pct": 0
+    },
+    {
+      "layer": 9,
+      "nrmse": 0.001052984639165487,
+      "worst_sample_nrmse": 0.006118423763610006,
+      "saturations": 1037,
+      "samples_over_3pct": 0
+    },
+    {
+      "layer": 10,
+      "nrmse": 0.0011471047740843055,
+      "worst_sample_nrmse": 0.007630318021249722,
+      "saturations": 1009,
+      "samples_over_3pct": 0
+    },
+    {
+      "layer": 11,
+      "nrmse": 0.0011251799183360557,
+      "worst_sample_nrmse": 0.006130773789718306,
+      "saturations": 573,
+      "samples_over_3pct": 0
+    }
+  ],
+  "official_score": null,
+  "native_hardware_run": false
+}

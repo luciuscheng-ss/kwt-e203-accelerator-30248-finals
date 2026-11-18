@@ -1,0 +1,35 @@
+{
+  "records": [
+    {
+      "nonce": "24C90550EFE2",
+      "source_sha256": "c9c0454ca307ff9b8271db2da97a9ca29077d5495456ebfb371f2acf58b48095",
+      "command_characters": 3275,
+      "mode": "send_once",
+      "created_unix": 1795007150.489064,
+      "transport_sha256": "d1feb7d99362dde48d913e959e8fe8eb575880354e775b77c7981c628b2221ee",
+      "ocr_sha256": "8cf92f4434788df89ec5e5b19608f86b8c944e7e8735b815e1f657834c9222d6",
+      "send_mode": "paste",
+      "encoding": "hextile",
+      "screen": "/home/lucius/\u6587\u6863/ChatGPT/\u7ade\u8d5b/experiments/finals_o12_native_20261118/finals_range107/strict_release_check/native_r1/screen_00.png",
+      "screen_sha256": "5d1f5d87ed9fed491e76d9ad213c37df8454abec0de2cd47ab8e7ce49b92a4c1",
+      "screenshots": 1,
+      "input_seconds": 0.342,
+      "capture_seconds": 0.483,
+      "remote_exit_code": 0,
+      "rows": [
+        "R1 ARCHIVE SHA 3C34B02C81E58325BEB306558B82BC3F2113D5ADDD30E7678A865C47635D4626",
+        "R1 INDEX SHA 98BAB458B7F0BA1259C7A9448A899E66AC6A50CA371B70CC7666E00BA8E2BD00",
+        "R1 PROVENANCE SHA F481C8190E2330CA3A12A7AECAA1CF7A52FE3D25CEDF5A026BD757C2752994A3",
+        "R1 MEMBERS 546 WAVES 12",
+        "R1 TECHNICAL MEMBERS IDENTICAL 542",
+        "R1 AREA INCLUDES ADDED SRAM CONTROLLER 1104.112800000003"
+      ],
+      "sha256": "3c8bd6ea217d0e44b247786332985135803bdad3f045312f22e58ed0bbafeda6",
+      "protocol": "crc32_rows_sha256_packet_v2",
+      "status": "verified",
+      "calibrated_pixel_decode": true,
+      "elapsed_seconds": 4.845
+    }
+  ],
+  "session_elapsed_seconds": 4.923
+}

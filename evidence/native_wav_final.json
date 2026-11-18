@@ -1,0 +1,38 @@
+{
+  "records": [
+    {
+      "nonce": "3E79CA2E6791",
+      "source_sha256": "0c716459e17ed99553db6c4e17c1b867b0be2fd1e92f2085fcd3d480bb7f0527",
+      "command_characters": 3223,
+      "mode": "send_once",
+      "created_unix": 1795003543.9107292,
+      "transport_sha256": "d1feb7d99362dde48d913e959e8fe8eb575880354e775b77c7981c628b2221ee",
+      "ocr_sha256": "8cf92f4434788df89ec5e5b19608f86b8c944e7e8735b815e1f657834c9222d6",
+      "send_mode": "paste",
+      "encoding": "hextile",
+      "screen": "/home/lucius/\u6587\u6863/ChatGPT/\u7ade\u8d5b/experiments/finals_o12_native_20261118/finals_range107/native_wav_final/screen_00.png",
+      "screen_sha256": "d4b40dc30211e3db27750d1fb45ad5267e58f49d081c51857afddbc6f29a48e0",
+      "screenshots": 1,
+      "input_seconds": 0.313,
+      "capture_seconds": 0.988,
+      "remote_exit_code": 0,
+      "rows": [
+        "EDA WAV FRESH UNPACK 12 LAYERS 162 CHECKPOINT TENSORS 1",
+        "EDA WAV SOURCE A9B7B07DCDB6BFD9CFDB305F68F5B8327BC7879FC90CA1899B5C27415B7AA049",
+        "EDA WAV NUMERIC 79D3238DE73AC3849EA1BDD91E7725AD9D15461164843C5D8B9560C0E41785CD",
+        "EDA WAV VECTORS 1A81F4C811D801DB684DAA020A371FBAE2BB4486BE80A1BC2A05427A35A607F0",
+        "EDA WAV INTERPRETER C70EFDA0EE43D9A0014EE570CAD3ABB4F46B0C11F6EA88F7C467A91FAAFD4F62",
+        "EDA WAV PROOF 720B663D628B6D66B5411DF784B6D6CBF1F922655FBD1F80C3894C58FC880C43",
+        "EDA WAV SOURCE EXIT 0 CASES 14",
+        "EDA WAV MAPPED EXIT 0 CASES 14",
+        "EDA WAV MAPPED NETLIST 33EC776DCA68E9CE78FA6671FC5B3ABF57F98EAE7977B658746AA9081129FF87"
+      ],
+      "sha256": "ded63a32de789ab7856708e0b18fc2be4826808064dd266105ee5002a246bc60",
+      "protocol": "crc32_rows_sha256_packet_v2",
+      "status": "verified",
+      "calibrated_pixel_decode": true,
+      "elapsed_seconds": 3.338
+    }
+  ],
+  "session_elapsed_seconds": 3.477
+}

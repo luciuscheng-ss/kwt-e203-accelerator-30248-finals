@@ -1,0 +1,97 @@
+{
+  "cases": [
+    {
+      "layer": 0,
+      "nrmse": 0.0008657592604497698,
+      "samples_over_3pct": 0,
+      "saturations": 818,
+      "worst_sample_nrmse": 0.014035428995960018
+    },
+    {
+      "layer": 1,
+      "nrmse": 0.0009415774798574335,
+      "samples_over_3pct": 0,
+      "saturations": 1383,
+      "worst_sample_nrmse": 0.011223964959911032
+    },
+    {
+      "layer": 2,
+      "nrmse": 0.000935085561609295,
+      "samples_over_3pct": 0,
+      "saturations": 1222,
+      "worst_sample_nrmse": 0.007301912713626878
+    },
+    {
+      "layer": 3,
+      "nrmse": 0.0010278899617948288,
+      "samples_over_3pct": 0,
+      "saturations": 1497,
+      "worst_sample_nrmse": 0.01708583046813613
+    },
+    {
+      "layer": 4,
+      "nrmse": 0.0011517172220213787,
+      "samples_over_3pct": 0,
+      "saturations": 1461,
+      "worst_sample_nrmse": 0.023968444389268654
+    },
+    {
+      "layer": 5,
+      "nrmse": 0.0009098797566274218,
+      "samples_over_3pct": 0,
+      "saturations": 978,
+      "worst_sample_nrmse": 0.006890465137570777
+    },
+    {
+      "layer": 6,
+      "nrmse": 0.0008663602187371471,
+      "samples_over_3pct": 0,
+      "saturations": 1252,
+      "worst_sample_nrmse": 0.008071944791427994
+    },
+    {
+      "layer": 7,
+      "nrmse": 0.0009305921512149513,
+      "samples_over_3pct": 0,
+      "saturations": 658,
+      "worst_sample_nrmse": 0.009833952034236149
+    },
+    {
+      "layer": 8,
+      "nrmse": 0.0009490201812651651,
+      "samples_over_3pct": 0,
+      "saturations": 992,
+      "worst_sample_nrmse": 0.00758857028062011
+    },
+    {
+      "layer": 9,
+      "nrmse": 0.001052984639165487,
+      "samples_over_3pct": 0,
+      "saturations": 1037,
+      "worst_sample_nrmse": 0.006118423763610006
+    },
+    {
+      "layer": 10,
+      "nrmse": 0.0011471047740843055,
+      "samples_over_3pct": 0,
+      "saturations": 1009,
+      "worst_sample_nrmse": 0.007630318021249722
+    },
+    {
+      "layer": 11,
+      "nrmse": 0.0011251799183360557,
+      "samples_over_3pct": 0,
+      "saturations": 573,
+      "worst_sample_nrmse": 0.006130773789718306
+    }
+  ],
+  "local_precision_score": 9.616094259326207,
+  "native_hardware_run": false,
+  "official_score": null,
+  "samples_over_3pct": 0,
+  "samples_per_layer": 4445,
+  "selected_factor": 1.07,
+  "training_freeze_sha256": "dec5141943bdf6043ff4ba84d702ea0acffebb3ac72fc613af61d5e7074174a6",
+  "worst_layer_nrmse": 0.0011517172220213787,
+  "worst_sample_nrmse": 0.023968444389268654
+}

@@ -1,0 +1,21 @@
+{
+  "bits": 12,
+  "code_range": [
+    -2047,
+    2047
+  ],
+  "csr_magic": "0x0b0b0c0c",
+  "id": "fixed12_rowmajor_v1",
+  "numeric_components": {
+    "o12_format.py": "28ed7cd31c145299d262b2642a9d03399ab478f5735d02db64eaab74f799b465",
+    "o12_training_bounds.json": "5471ab19f89c57da571261af5759ec34e89a8c911cc37e62e3bb59c0e0852098"
+  },
+  "numeric_freeze_sha256": "79d3238de73ac3849ea1bdd91e7725ad9d15461164843c5d8b9560c0e41785cd",
+  "shape": [
+    99,
+    256
+  ],
+  "source_format_base_sha256": "f0d58263c179a89d164cffbf3f866db68d52f8c27ead48add034c49896becef2",
+  "sram_bit_offset": "12*(256*row+column)",
+  "sram_word_count": 9504
+}

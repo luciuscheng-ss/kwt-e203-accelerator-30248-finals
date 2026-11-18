@@ -1,0 +1,10 @@
+{
+  "scope": "O12 numerical feasibility only",
+  "calibration_split": "training",
+  "table_rule": "For each layer and output column, store 1.05 times the maximum absolute floating-point output over all rows of the 600 existing training calibration records.",
+  "factor_candidates_in_hundredths": {"first": 100, "last": 200, "step": 1},
+  "selection_rule": "Select the smallest global candidate that produces zero output quantizer clipping on the integer reference for every training calibration record across all 12 layers.",
+  "validation_rule": "Write and freeze the training result before opening validation tensors. Evaluate the one selected factor once and report all results. Validation results do not feed factor selection.",
+  "validation_samples_per_layer": 4445,
+  "test_split_access": false
+}

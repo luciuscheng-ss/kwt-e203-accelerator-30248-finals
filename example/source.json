@@ -1,0 +1,6 @@
+{
+  "split": "validation",
+  "dataset_relative_path": "house/e8c3c5ca_nohash_0.wav",
+  "wav_sha256": "5f406ec4380581ee96963e790974cabe06650d6b2bc96442a955953ba0126fb1",
+  "dataset": "Speech Commands v0.02 (CC BY 4.0)"
+}

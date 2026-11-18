@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "nonce": "4B68DA88CF72",
+      "source_sha256": "958727901af471d85be170d4532d311cd5ef43abbbc1f48338fc4f9c5d4c8d63",
+      "command_characters": 3803,
+      "mode": "send_once",
+      "created_unix": 1795003759.2103784,
+      "transport_sha256": "d1feb7d99362dde48d913e959e8fe8eb575880354e775b77c7981c628b2221ee",
+      "ocr_sha256": "8cf92f4434788df89ec5e5b19608f86b8c944e7e8735b815e1f657834c9222d6",
+      "send_mode": "paste",
+      "encoding": "hextile",
+      "screen": "/home/lucius/\u6587\u6863/ChatGPT/\u7ade\u8d5b/experiments/finals_o12_native_20261118/finals_range107/progress23/screen_00.png",
+      "screen_sha256": "22ab6424972ad8930d21502976337ea310869360c00dd24d6895c4c650550d0e",
+      "screenshots": 1,
+      "input_seconds": 0.297,
+      "capture_seconds": 1.102,
+      "remote_exit_code": 0,
+      "rows": [
+        "CORE EXIT RUNNING STA PASS TRUE AREA 0.3552432874979847",
+        "MAPPED FULL TRUE 16",
+        "POWER FALSE 6",
+        "LATEST STAGE WHOLE SOC POWER NONE",
+        "WAV EXIT 0 RAW CREATED TRUE",
+        "WAV SOURCE TRUE 14",
+        "WAV MAPPED TRUE 14",
+        "ACTIVITY TRUE 12",
+        "WAV RUNTIME SETUP TRUE TRUE",
+        "TWO NATIVE WAV ENCODINGS SAME MANIFEST 1A81F4C811D801DB684DAA020A371FBAE2BB4486BE80A1BC2A05427A35A607F0"
+      ],
+      "sha256": "acb771f92a46b9a47407c3cda6e61f13e0579fb3bd6dd6fe5bb7409177a1bedc",
+      "protocol": "crc32_rows_sha256_packet_v2",
+      "status": "verified",
+      "calibrated_pixel_decode": true,
+      "elapsed_seconds": 2.934
+    }
+  ],
+  "session_elapsed_seconds": 3.041
+}

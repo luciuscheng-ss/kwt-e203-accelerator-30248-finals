@@ -1,0 +1,34 @@
+{
+  "records": [
+    {
+      "nonce": "A83677494344",
+      "source_sha256": "54f49be90e29042ce549b504a07f907dd22adc9078f84041de1202cf6a5ba53a",
+      "command_characters": 1723,
+      "mode": "send_once",
+      "created_unix": 1795003646.889197,
+      "transport_sha256": "d1feb7d99362dde48d913e959e8fe8eb575880354e775b77c7981c628b2221ee",
+      "ocr_sha256": "8cf92f4434788df89ec5e5b19608f86b8c944e7e8735b815e1f657834c9222d6",
+      "send_mode": "paste",
+      "encoding": "hextile",
+      "screen": "/home/lucius/\u6587\u6863/ChatGPT/\u7ade\u8d5b/experiments/finals_o12_native_20261118/finals_range107/native_wav_determinism/screen_00.png",
+      "screen_sha256": "68c29dbafc0540967bc69ed1c69e0df59f3fff8d53c44f331dc1f242e88d9887",
+      "screenshots": 1,
+      "input_seconds": 0.296,
+      "capture_seconds": 0.849,
+      "remote_exit_code": 0,
+      "rows": [
+        "NATIVE WAV VECTOR SOURCE.HEX 1D6B1A6D066B948B9E3DB388EC0A12DDD6ECA4A2A4C43D677B63704A4954C872",
+        "NATIVE WAV VECTOR RAW.HEX 70D1B11EC939E4FF5003D7B99A8C2FC8ED9B0C4D6F9DD219F64CBFE706D406C1",
+        "NATIVE WAV VECTOR CODES.HEX D195A6DC9C183474855467C3BF05CB29D3E159C7B5FF16C6CEC5C3EC1198E2A6",
+        "NATIVE WAV VECTOR MATRIX.HEX F5D11DE21620AADE96D8F1885BDF96655BEE65546417F860AECB40900034D7BF",
+        "NATIVE WAV MAX ERROR 0.0011230459839378"
+      ],
+      "sha256": "3bd381a9761a9ae12cebfc8cdd8f86780089478632b2388c70ab4e50d469fea2",
+      "protocol": "crc32_rows_sha256_packet_v2",
+      "status": "verified",
+      "calibrated_pixel_decode": true,
+      "elapsed_seconds": 2.678
+    }
+  ],
+  "session_elapsed_seconds": 2.785
+}

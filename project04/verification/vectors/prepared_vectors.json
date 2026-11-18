@@ -1,0 +1,130 @@
+{
+  "actual_RTL_verified": false,
+  "case_info": [
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 0,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 1,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 2,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 3,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 4,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 5,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 6,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 7,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 8,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 9,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 10,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "validation_fixed_entry0",
+      "layer": 11,
+      "output_words": 9504,
+      "sample_index": 0,
+      "source_words": 8168
+    },
+    {
+      "kind": "zero_X_maximum_signed_bias",
+      "output_words": 9504,
+      "source_words": 8168
+    },
+    {
+      "kind": "zero_W_exact_Winograd_cancellation",
+      "output_words": 9504,
+      "source_words": 8168
+    }
+  ],
+  "data_split": "validation",
+  "numeric_config_changed": true,
+  "numeric_freeze_sha256": "79d3238de73ac3849ea1bdd91e7725ad9d15461164843c5d8b9560c0e41785cd",
+  "official_score": null,
+  "output_format": "fixed12_rowmajor_v1",
+  "sample_selection": "index0 fixed before any vector performance measurements; no sample selection for fast rate",
+  "scope": "Fixed validation entry 0 across 12 layers, with two independent boundary fixtures.",
+  "synthetic_parent_source_sha256": "5843bd4f0bcf30db812ca2c96ffd339720a397ad8e4e08cf3c0947245f7126bf",
+  "testing_accessed": false,
+  "validation_sample": {
+    "file": "three/7195ffa6_nohash_2.wav",
+    "label": 1,
+    "silence": false
+  },
+  "vector_generator_sha256": "d7aba0b3ba953d6ef0255d2b8f6686475bd2e74cb7ad6927f6299fd7b51432d6",
+  "vector_sha256": {
+    "codes.hex": "9b76ce5eb2a936754a7c639ceb9722e27697ca262e30cf2a30d402294c78a9e7",
+    "dual_params.vh": "14e001333fe97dd36fedcacdf5c465d685d118f6c7f7df9ff0ecfcf4d9de10c4",
+    "matrix.hex": "0096f1bf333f51c6e2378386e787bba56828c08b56b4bb4f1df872ca46596c6f",
+    "raw.hex": "de147b3c398a8dddf1ee8a8d25487cc88dac4e46a88b62da9fbce76ae50a99c4",
+    "source.hex": "21aef8d01196e3cb41c7a29477dd93052dd5b0737261eb063eeac321ada9219e",
+    "word_counts.hex": "8cfe548dd8f3ba6186428d48daf0417cc78aace0fafff2845845096c44413421"
+  },
+  "vectors_sha256": {
+    "codes.hex": "6bced6cfec23556cc70fc46cd70ac109781231d4eefc1f2f6ad75afa8e0fd352",
+    "dual_params.vh": "3ec312c5f031eab462958a9e75787a33a9f8f68c0c201ad9d985a66ab5ebfe5c",
+    "packed.hex": "ebad9daa515c37497dd2a08153d8c9a3de3b0e4ad1375a992f66448f61fee533",
+    "raw.hex": "de147b3c398a8dddf1ee8a8d25487cc88dac4e46a88b62da9fbce76ae50a99c4",
+    "source.hex": "61a0f14d00c34544ef3b7e510bcd3b46e36192f7e5d074c068db25fe8bd99f75",
+    "word_counts.hex": "60cb09229efef1bc62a033c2f4ea074ba1e81473ef78a24ce69ad0f89871cf60"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schema": "kwt-release-gate-v1",
+  "candidate": "FINALS30248_O12_RANGE107",
+  "stage": "submission",
+  "context": {
+    "group": "undergraduate",
+    "phase": "final"
+  },
+  "active_requirements": 82,
+  "ready_for_stage": false,
+  "official_submission_ready": false,
+  "issues": [
+    {
+      "id": "UP06",
+      "title": "海报",
+      "reason": "尚未验收：unverified",
+      "detail": "当届海报已生成1241×1754 JPG并完整视觉核验；后台可接受格式/字段未确认，原文未给硬性尺寸限制，不自行假定。"
+    },
+    {
+      "id": "UP07",
+      "title": "签字声明图片",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "UP08",
+      "title": "团队及个人照片",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "UP10",
+      "title": "具体截止公告",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "UP12",
+      "title": "真实与独立创作",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "UP13",
+      "title": "全体成员签字",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "UP14",
+      "title": "学院章或导师签字",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "AD01",
+      "title": "队伍人数",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "AD02",
+      "title": "指导老师",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "AD03",
+      "title": "队长提交权限",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "AD04",
+      "title": "组别按学籍",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "AD05",
+      "title": "参赛资格审核",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "AD07",
+      "title": "在校身份",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "AD09",
+      "title": "后续官方通知",
+      "reason": "尚未验收：missing",
+      "detail": ""
+    },
+    {
+      "id": "U06",
+      "reason": "登录后实际字段的文件类型数量尺寸限制、截止时区及后续补充通知"
+    }
+  ],
+  "limitation": "检查条款、证据存在和版本一致性；不自动判断拓扑等价、官方许可真伪或科学结论。",
+  "checked_utc": "2026-11-18T13:06:19.242861+00:00"
+}

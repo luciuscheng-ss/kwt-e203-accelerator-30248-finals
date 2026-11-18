@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "nonce": "7DDB45622596",
+      "source_sha256": "2c6e5c9cfbec2de446e96648e6411285b2a9fdd4b3b28ab69c26b7e45613f6b1",
+      "command_characters": 2927,
+      "mode": "send_once",
+      "created_unix": 1795004887.0423522,
+      "transport_sha256": "d1feb7d99362dde48d913e959e8fe8eb575880354e775b77c7981c628b2221ee",
+      "ocr_sha256": "8cf92f4434788df89ec5e5b19608f86b8c944e7e8735b815e1f657834c9222d6",
+      "send_mode": "paste",
+      "encoding": "hextile",
+      "screen": "/home/lucius/\u6587\u6863/ChatGPT/\u7ade\u8d5b/experiments/finals_o12_native_20261118/finals_range107/native_archive/screen_00.png",
+      "screen_sha256": "88854151a5c446202c203e54160cdf6eebcd2576bc89491cf1755cca2cfeb2b8",
+      "screenshots": 1,
+      "input_seconds": 0.303,
+      "capture_seconds": 0.639,
+      "remote_exit_code": 0,
+      "rows": [
+        "RANGE107 ARCHIVE SHA 5C134ED6CEEA65D4BDDE6A8FC2677DE12DD8A0734510461B404CB34AA9F84A4B",
+        "RANGE107 ARCHIVE INDEX 054CFCDDFEB2B26421E45781A092B8794973E521A528C52E94E39C317D5F2FFA",
+        "RANGE107 ARCHIVE MEMBERS 545 WAVES 12",
+        "RANGE107 ARCHIVE SOURCE A9B7B07DCDB6BFD9CFDB305F68F5B8327BC7879FC90CA1899B5C27415B7AA049",
+        "RANGE107 ARCHIVE NUMERIC 79D3238DE73AC3849EA1BDD91E7725AD9D15461164843C5D8B9560C0E41785CD",
+        "RANGE107 ARCHIVE MAPPED 33EC776DCA68E9CE78FA6671FC5B3ABF57F98EAE7977B658746AA9081129FF87",
+        "RANGE107 ARCHIVE RUNTIME E7285A9310275F4B9ADEE1C161EE17D84B6E041B2545F1787D440DA0C9E36D8F",
+        "RANGE107 ARCHIVE DECISION DC35CE836674FF3078D47D1C0AEF3D2ED0FCC5AB24894F4B963BA5E979297C91"
+      ],
+      "sha256": "3583ac58c47ee35fbe21975dc94d4cef6711161e620ca5dccbdc6b9788ae97b4",
+      "protocol": "crc32_rows_sha256_packet_v2",
+      "status": "verified",
+      "calibrated_pixel_decode": true,
+      "elapsed_seconds": 7.962
+    }
+  ],
+  "session_elapsed_seconds": 8.014
+}
